@@ -1,0 +1,11 @@
+# Generated data (callgraph / sqlite dumps)
+data/
+*.db
+*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
